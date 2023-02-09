@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 
 import { Pannellum, PannellumVideo } from "pannellum-react";
 //import myImage from "./img/img360.jpg";
-import myVideo from "../video/video2.mp4";
+import myVideo from "../video/jfk.mp4";
 import myVideo2 from "../video/video1.mp4";
 
 export default class componentName extends Component {
