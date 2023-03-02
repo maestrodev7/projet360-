@@ -32,7 +32,7 @@ export default class componentName extends Component {
   hanldeClickCheck = (path)=>{
     console.log(path);
     this.setState({
-      mediaVideo : myVideo2,
+      mediaVideo : "http://localhost:4000/video",
       title: "oo",
       scene: 1
     });
