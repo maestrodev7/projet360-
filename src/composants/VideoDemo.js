@@ -32,7 +32,7 @@ export default class componentName extends Component {
   hanldeClickCheck = (path)=>{
     console.log(path);
     this.setState({
-      mediaVideo : "http://localhost:4000/video",
+      mediaVideo : "https://serverstreaming.onrender.com/video",
       title: "oo",
       scene: 1
     });
